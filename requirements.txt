@@ -1,0 +1,3 @@
+# Python dependencies for ADroneViz
+# Add more as needed, for example:
+# ursina
