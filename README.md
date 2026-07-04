@@ -32,6 +32,10 @@ pip install -r requirements.txt
 ```bash
 python3 sensor_reader.py
 ```
+### 3. Run drone vizualizer
+'''bash
+python3 vizualize_drone.py
+'''    
 
 ## How It Works
 - Executes `adb shell dumpsys sensorservice`
